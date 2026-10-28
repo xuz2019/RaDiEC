@@ -1,0 +1,14 @@
+/results/
+/results[0-9]*/
+/largeResults/
+*.asv
+*.autosave
+*.log
+slprj/
+octave-workspace
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.env.*
